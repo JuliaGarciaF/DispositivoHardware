@@ -273,3 +273,9 @@ body{
 #dispositivo h3 {
   color: var(--brand);
 }
+
+/* === Enlaces en color blanco === */
+a {
+  color: white;              
+  text-decoration: underline; 
+}
